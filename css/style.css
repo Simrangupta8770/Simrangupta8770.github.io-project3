@@ -357,6 +357,10 @@ footer .social a{
     .showcase-form{
         width:300px;
     }
+    .stats-heading{
+        margin-left: 2%;
+    }
+    
     
     .stats .grid3 {
         text-align: center;
